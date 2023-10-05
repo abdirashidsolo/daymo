@@ -21,7 +21,7 @@
 
 .main-nav-lists a {
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #318ecc;
 
   /* transition: all 0.5s; */
@@ -97,7 +97,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 90vh;
-  overflow-y: hidden;
 }
 .hero {
   overflow-y: hidden;

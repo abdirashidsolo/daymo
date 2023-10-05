@@ -134,7 +134,7 @@ allSections.forEach(function (section) {
 });
 
 // Lazy loading
-const allImages = document.querySelectorAll("img[data-src");
+const allImages = document.querySelectorAll("img[data-src]");
 
 const loadLazy = function (entries, observer) {
   const entry = entries[0];
